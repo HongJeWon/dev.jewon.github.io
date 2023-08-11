@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  <h1>Hello Dev.Jewon Index Page</h1>
+  <div>
+    <h1>홍제원 정적 페이지 입니다.</h1>
+  </div>
 </template>
 
 <style scoped>
