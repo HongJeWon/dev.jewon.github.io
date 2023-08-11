@@ -3,6 +3,6 @@ export default {
     development: {enabled: true},
     target: 'static',
     router: {
-        base : '/myVueStaticPage/'
+        base : '/dev.jewon.github.io/'
     }
 }
