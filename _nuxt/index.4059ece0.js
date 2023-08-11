@@ -1,0 +1,1 @@
+import{_ as e,l as t,k as c,m as n}from"./entry.62f8b9eb.js";const o={},s=n("h1",null,"홍제원 정적 페이지 입니다.",-1),_=[s];function r(a,l){return c(),t("div",null,_)}const i=e(o,[["render",r]]);export{i as default};
